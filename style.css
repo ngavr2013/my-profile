@@ -1,0 +1,126 @@
+body {
+	background-color: lightgrey;
+	color: black;
+	font-family: roman;
+	line-height: 20px;
+	text-align: center;
+}
+
+.btn-blue {
+background-color:darkslategrey;
+color: whitesmoke;
+padding: 6px 20px;
+border-radius: 4px;
+}
+
+.btn-blue:hover {
+background-color:#EE9595;
+color: whitesmoke;
+
+}
+
+h1 {
+	color: darkslategrey;
+	font-family: roman;
+	text-align: center;
+	letter-spacing: 0.25em;
+}
+
+a{
+	text-decoration: none;
+}
+h2, h3, h4 {
+	font-family: roman; 
+	letter-spacing: 0.15em;
+	color: dimgrey;
+}
+
+a {
+	text-decoration: none;
+	color: #FFDDCC;
+}
+
+a:hover {
+	color: rgb(255, 0, 127);
+}
+
+.profile {
+    border-radius: 50%;
+    width: 100px; 
+    height: 100px;
+    object-fit: cover;
+    display: block; 
+    margin: 0 auto; 
+}
+
+
+
+#intro {
+background-color: #7897AB;
+
+}
+
+#intro p {
+margin-bottom: 20px;
+
+}
+#section2 {
+background-color: aliceblue;
+
+}
+
+#section3 {
+background-color: linen;
+
+}
+
+#section4 {
+background-color: mistyrose;
+
+}
+
+#section5 {
+background-color: aliceblue;
+
+}
+.font-styles {
+	margin-bottom: 5px;
+	justify-content: center;
+	border-radius: 1px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+	margin: 70px;
+	border: 1px;
+	padding: 12px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 30px;
+	color: #FFDDCC;
+}
+
+.list-inline i:hover {
+	color: #99154E;
+}
+
+#section4 {
+  text-align: center;
+
+}
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+  margin: 0 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
